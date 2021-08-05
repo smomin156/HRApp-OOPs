@@ -1,0 +1,12 @@
+C:\Users\smomi\source\repos\HRLib\HRLib\bin\Debug\HRLib.dll
+C:\Users\smomi\source\repos\HRLib\HRLib\bin\Debug\HRLib.pdb
+C:\Users\smomi\source\repos\HRLib\HRLib\obj\Debug\HRLib.csproj.AssemblyReference.cache
+C:\Users\smomi\source\repos\HRLib\HRLib\obj\Debug\HRLib.csproj.CoreCompileInputs.cache
+C:\Users\smomi\source\repos\HRLib\HRLib\obj\Debug\HRLib.dll
+C:\Users\smomi\source\repos\HRLib\HRLib\obj\Debug\HRLib.pdb
+D:\training\Assignment\HRLib\HRLib\bin\Debug\HRLib.dll
+D:\training\Assignment\HRLib\HRLib\bin\Debug\HRLib.pdb
+D:\training\Assignment\HRLib\HRLib\obj\Debug\HRLib.csproj.AssemblyReference.cache
+D:\training\Assignment\HRLib\HRLib\obj\Debug\HRLib.csproj.CoreCompileInputs.cache
+D:\training\Assignment\HRLib\HRLib\obj\Debug\HRLib.dll
+D:\training\Assignment\HRLib\HRLib\obj\Debug\HRLib.pdb
